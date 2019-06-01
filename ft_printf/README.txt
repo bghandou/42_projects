@@ -1,1 +1,1 @@
-Coded a personal printf %diouxXpcso options are available with a variety of other flags.
+Coded a personal printf with the %diouxXpcso options and a variety of other flags.
